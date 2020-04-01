@@ -33,3 +33,11 @@ OUTPUT:
 
 I have included the code in the repository which helped me clear this round. The objective of this round is to test your OOPS concept.
 Therefore focus on designing your code properly.
+
+To test the code provide following input:
+5
+1 2 3 4 5
+3
+A B C
+2
+R1 R2
