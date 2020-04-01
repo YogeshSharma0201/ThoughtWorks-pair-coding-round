@@ -12,13 +12,13 @@ could not be interviewed.
 
 Sample Input:
 
-Attendees:
+Attendees:<br/>
 1 2 3 4 5
 
-Interviewers:
+Interviewers:<br/>
 A B C
 
-Rooms:
+Rooms:<br/>
 R1 R2
 
 Considering the input above, minimum requirement for the program is to model the problem using OOPS and give 
@@ -34,10 +34,10 @@ OUTPUT:
 I have included the code in the repository which helped me clear this round. The objective of this round is to test your OOPS concept.
 Therefore focus on designing your code properly.
 
-To test the code provide following input:
-5
-1 2 3 4 5
-3
-A B C
-2
+To test the code provide following input:<br/>
+5<br/>
+1 2 3 4 5<br/>
+3<br/>
+A B C<br/>
+2<br/>
 R1 R2
